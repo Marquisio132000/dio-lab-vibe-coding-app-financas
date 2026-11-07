@@ -37,6 +37,9 @@ Quero resolver isso com uma experiência de conversa e recomendações automáti
 # Público-Alvo
 Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
 
+<img width="1062" height="498" alt="image" src="https://github.com/user-attachments/assets/ad1a14bd-404c-4f3f-a753-44f635713e9b" />
+
+
 # Funcionalidades-Chave
 1. Registrar gastos via chat em linguagem natural.  
 2. Classificar automaticamente as transações.  
